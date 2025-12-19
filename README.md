@@ -12,11 +12,11 @@ Key Features
 
 4. Data Visualization:
 
-  Heatmaps: To show communication intensity between IP pairs.
+Heatmaps: To show communication intensity between IP pairs.
 
-  Network Graphs: To visualize the network topology and traffic hubs.
+Network Graphs: To visualize the network topology and traffic hubs.
 
-  Chord Diagrams: To display bidirectional traffic relationships.
+Chord Diagrams: To display bidirectional traffic relationships.
 
 
 Technical Stack
